@@ -73,3 +73,10 @@ db.collection('cafes').orderBy('city').onSnapshot(snapshot => {
         }
     });
 });
+
+
+
+
+// SET AND UPDATE FOR UPDATE DATA
+
+// db.collection('cafes').doc('sjhdfgjadfhkdflk').set({})
